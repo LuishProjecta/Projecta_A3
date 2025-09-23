@@ -45,5 +45,5 @@ Seu objetivo é facilitar a **gestão de projetos, equipes e tarefas**, trazendo
 
 ---
 
-## Estrutura do Projeto  
+
 
