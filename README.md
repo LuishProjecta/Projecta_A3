@@ -1,4 +1,4 @@
-# Projecta - Sistema de Gestão de Projetos e Equipes  
+# Analise e desenvolvimento de sistemas (A3)
 
 O **Projecta** é um sistema acadêmico desenvolvido em **Java (Orientação a Objetos)** com interface gráfica e banco de dados **MySQL**.  
 Seu objetivo é facilitar a **gestão de projetos, equipes e tarefas**, trazendo relatórios de desempenho e acompanhando o andamento de entregas.  
