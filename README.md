@@ -39,8 +39,7 @@ Seu objetivo é facilitar a **gestão de projetos, equipes e tarefas**, trazendo
 
 - **Linguagem**: Java  
 - **Banco de Dados**: MySQL  
-- **Controle de Versão**: Git + GitHub  
-- **Modelagem**: UML + Modelo ER  
+- **Controle de Versão**: GitHub  
 - **IDE**: VS Code
 ---
 
