@@ -37,12 +37,11 @@ Seu objetivo é facilitar a **gestão de projetos, equipes e tarefas**, trazendo
 
 ## Tecnologias Utilizadas  
 
-- **Linguagem**: Java (Swing/JavaFX para interface)  
+- **Linguagem**: Java  
 - **Banco de Dados**: MySQL  
 - **Controle de Versão**: Git + GitHub  
 - **Modelagem**: UML + Modelo ER  
-- **IDE**: IntelliJ IDEA / Eclipse / VS Code (a escolha do grupo)  
-
+- **IDE**: VS Code
 ---
 
 
